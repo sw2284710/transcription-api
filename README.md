@@ -23,3 +23,6 @@ handle 10k+ concurrent requests
 4. Redis Caching - We can Redis cache to store recently fetched or processed transcriptions for a 
 GET /transcriptions "# transcription-project" 
 "# transcription-api" 
+
+
+# for logging I could use winston and swagger for API documentation but I have not used in this demo.
