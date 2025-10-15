@@ -22,3 +22,4 @@ handle 10k+ concurrent requests
 3. We can process actual audio processing/transcription operation using a background queue like RabbitMQ.
 4. Redis Caching - We can Redis cache to store recently fetched or processed transcriptions for a 
 GET /transcriptions "# transcription-project" 
+"# transcription-api" 
