@@ -1,9 +1,0 @@
-# Node modules
-**/node_modules/
-
-# Env files
-**/.env
-
-# Build folders
-dist/
-frontend/build/
