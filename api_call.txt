@@ -1,0 +1,9 @@
+1. POST - http://localhost:4000/api/transcription
+
+{ "audioUrl": "https://example.com/sample.mp3" }
+
+2. GET - http://localhost:4000/api/transcriptions
+
+3. http://localhost:4000/api/azure-transcription
+
+{"audioUrl":"https://example.com/sample.mp3","language":"fr-FR"}
